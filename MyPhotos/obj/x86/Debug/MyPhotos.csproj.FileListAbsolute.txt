@@ -1,0 +1,81 @@
+C:\Users\Linh Yo\AppData\Local\Temporary Projects\MyPhotos\bin\Debug\MyPhotos.exe
+C:\Users\Linh Yo\AppData\Local\Temporary Projects\MyPhotos\bin\Debug\MyPhotos.pdb
+C:\Users\Linh Yo\AppData\Local\Temporary Projects\MyPhotos\obj\x86\Debug\MyPhotos.Properties.Resources.resources
+C:\Users\Linh Yo\AppData\Local\Temporary Projects\MyPhotos\obj\x86\Debug\MyPhotos.csproj.GenerateResource.Cache
+C:\Users\Linh Yo\AppData\Local\Temporary Projects\MyPhotos\obj\x86\Debug\MyPhotos.exe
+C:\Users\Linh Yo\AppData\Local\Temporary Projects\MyPhotos\obj\x86\Debug\MyPhotos.pdb
+C:\Users\Linh Yo\documents\visual studio 2010\Projects\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.exe
+C:\Users\Linh Yo\documents\visual studio 2010\Projects\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.pdb
+C:\Users\Linh Yo\documents\visual studio 2010\Projects\MyPhotos\MyPhotos\bin\Debug\MyPhotos.exe
+C:\Users\Linh Yo\documents\visual studio 2010\Projects\MyPhotos\MyPhotos\bin\Debug\MyPhotos.pdb
+C:\Users\Linh Yo\documents\visual studio 2010\Projects\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.MainForm.resources
+C:\Users\Linh Yo\documents\visual studio 2010\Projects\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.Properties.Resources.resources
+C:\Users\Linh Yo\documents\visual studio 2010\Projects\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.csproj.GenerateResource.Cache
+C:\Users\Linh Yo\Documents\Visual Studio 2010\Projects\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.csprojResolveAssemblyReference.cache
+C:\Users\Linh Yo\documents\visual studio 2010\Projects\MyPhotos\MyPhotos\bin\Debug\MyPhotos.exe.config
+C:\Users\Linh Yo\Documents\Visual Studio 2010\Projects\MyPhotos\MyPhotos\bin\Debug\MyPhotoAlbum.dll
+C:\Users\Linh Yo\Documents\Visual Studio 2010\Projects\MyPhotos\MyPhotos\bin\Debug\MyPhotoAlbum.pdb
+C:\Users\Linh Yo\Documents\Visual Studio 2010\Projects\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.PixelDlg.resources
+D:\Course\FIT 4th - term 5\MyPhotos\MyPhotos\bin\Debug\MyPhotos.exe.config
+D:\Course\FIT 4th - term 5\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.exe
+D:\Course\FIT 4th - term 5\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.pdb
+D:\Course\FIT 4th - term 5\MyPhotos\MyPhotos\bin\Debug\MyPhotos.exe
+D:\Course\FIT 4th - term 5\MyPhotos\MyPhotos\bin\Debug\MyPhotos.pdb
+D:\Course\FIT 4th - term 5\MyPhotos\MyPhotos\bin\Debug\MyPhotoAlbum.dll
+D:\Course\FIT 4th - term 5\MyPhotos\MyPhotos\bin\Debug\MyPhotoAlbum.pdb
+D:\Course\FIT 4th - term 5\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.csprojResolveAssemblyReference.cache
+D:\Course\FIT 4th - term 5\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.MainForm.resources
+D:\Course\FIT 4th - term 5\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.PixelDlg.resources
+D:\Course\FIT 4th - term 5\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.Properties.Resources.resources
+D:\Course\FIT 4th - term 5\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.csproj.GenerateResource.Cache
+D:\Course\FIT 4th - term 5\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.ParentForm.resources
+D:\Course\FIT 4th - term 5\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.SlideShowForm.resources
+D:\Course\FIT 4th - term 5\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.AboutBox.resources
+D:\Course\FIT 4th - term 5\MyPhotos\MyPhotos\bin\Debug\axshdocvw.dll
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyPhotos\bin\Debug\MyPhotos.exe.config
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.exe
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyPhotos\bin\Debug\MyPhotos.exe
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyPhotos\bin\Debug\MyPhotos.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyPhotos\bin\Debug\MyPhotoAlbum.dll
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyPhotos\bin\Debug\MyPhotoAlbum.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.csprojResolveAssemblyReference.cache
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.AboutBox.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.MainForm.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.ParentForm.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.PixelDlg.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.Properties.Resources.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.SlideShowForm.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.csproj.GenerateResource.Cache
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyPhotos\bin\Debug\MyPhotos.exe.config
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.exe
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyPhotos\bin\Debug\MyPhotos.exe
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyPhotos\bin\Debug\MyPhotos.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyPhotos\bin\Debug\MyPhotoAlbum.dll
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyPhotos\bin\Debug\MyPhotoAlbum.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.csprojResolveAssemblyReference.cache
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.AboutBox.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.MainForm.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.ParentForm.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.PixelDlg.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.Properties.Resources.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.SlideShowForm.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.csproj.GenerateResource.Cache
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.AboutUs.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyPhotos\bin\Debug\MyPhotos.exe.config
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.exe
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyPhotos\bin\Debug\MyPhotos.exe
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyPhotos\bin\Debug\MyPhotos.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyPhotos\bin\Debug\MyPhotoAlbum.dll
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyPhotos\bin\Debug\MyPhotoAlbum.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.csprojResolveAssemblyReference.cache
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.AboutBox.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.AboutUs.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.MainForm.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.ParentForm.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.PixelDlg.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.Properties.Resources.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.SlideShowForm.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyPhotos\obj\x86\Debug\MyPhotos.csproj.GenerateResource.Cache

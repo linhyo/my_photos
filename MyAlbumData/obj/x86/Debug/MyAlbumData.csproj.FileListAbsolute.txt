@@ -1,0 +1,40 @@
+D:\Course\FIT 4th - term 5\MyPhotos\MyAlbumData\bin\Debug\MyAlbumData.exe
+D:\Course\FIT 4th - term 5\MyPhotos\MyAlbumData\bin\Debug\MyAlbumData.pdb
+D:\Course\FIT 4th - term 5\MyPhotos\MyAlbumData\bin\Debug\MyPhotoAlbum.dll
+D:\Course\FIT 4th - term 5\MyPhotos\MyAlbumData\bin\Debug\MyPhotoAlbum.pdb
+D:\Course\FIT 4th - term 5\MyPhotos\MyAlbumData\obj\x86\Debug\MyAlbumData.MainForm.resources
+D:\Course\FIT 4th - term 5\MyPhotos\MyAlbumData\obj\x86\Debug\MyAlbumData.Properties.Resources.resources
+D:\Course\FIT 4th - term 5\MyPhotos\MyAlbumData\obj\x86\Debug\MyAlbumData.csproj.GenerateResource.Cache
+D:\Course\FIT 4th - term 5\MyPhotos\MyAlbumData\obj\x86\Debug\MyAlbumData.exe
+D:\Course\FIT 4th - term 5\MyPhotos\MyAlbumData\obj\x86\Debug\MyAlbumData.pdb
+D:\Course\FIT 4th - term 5\MyPhotos\MyAlbumData\obj\x86\Debug\MyAlbumData.csprojResolveAssemblyReference.cache
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyAlbumData\obj\x86\Debug\MyAlbumData.exe
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyAlbumData\obj\x86\Debug\MyAlbumData.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyAlbumData\bin\Debug\MyAlbumData.exe
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyAlbumData\bin\Debug\MyAlbumData.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyAlbumData\bin\Debug\MyPhotoAlbum.dll
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyAlbumData\bin\Debug\MyPhotoAlbum.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyAlbumData\obj\x86\Debug\MyAlbumData.csprojResolveAssemblyReference.cache
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyAlbumData\obj\x86\Debug\MyAlbumData.MainForm.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyAlbumData\obj\x86\Debug\MyAlbumData.Properties.Resources.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyAlbumData\obj\x86\Debug\MyAlbumData.csproj.GenerateResource.Cache
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyAlbumData\obj\x86\Debug\MyAlbumData.exe
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyAlbumData\obj\x86\Debug\MyAlbumData.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyAlbumData\bin\Debug\MyAlbumData.exe
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyAlbumData\bin\Debug\MyAlbumData.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyAlbumData\bin\Debug\MyPhotoAlbum.dll
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyAlbumData\bin\Debug\MyPhotoAlbum.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyAlbumData\obj\x86\Debug\MyAlbumData.csprojResolveAssemblyReference.cache
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyAlbumData\obj\x86\Debug\MyAlbumData.MainForm.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyAlbumData\obj\x86\Debug\MyAlbumData.Properties.Resources.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyAlbumData\obj\x86\Debug\MyAlbumData.csproj.GenerateResource.Cache
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyAlbumData\obj\x86\Debug\MyAlbumData.exe
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyAlbumData\obj\x86\Debug\MyAlbumData.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyAlbumData\bin\Debug\MyAlbumData.exe
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyAlbumData\bin\Debug\MyAlbumData.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyAlbumData\bin\Debug\MyPhotoAlbum.dll
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyAlbumData\bin\Debug\MyPhotoAlbum.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyAlbumData\obj\x86\Debug\MyAlbumData.csprojResolveAssemblyReference.cache
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyAlbumData\obj\x86\Debug\MyAlbumData.MainForm.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyAlbumData\obj\x86\Debug\MyAlbumData.Properties.Resources.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyAlbumData\obj\x86\Debug\MyAlbumData.csproj.GenerateResource.Cache

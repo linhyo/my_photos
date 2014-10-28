@@ -1,0 +1,40 @@
+D:\Course\FIT 4th - term 5\MyPhotos\MyAlbumExplorer\bin\Debug\MyAlbumExplorer.exe
+D:\Course\FIT 4th - term 5\MyPhotos\MyAlbumExplorer\bin\Debug\MyAlbumExplorer.pdb
+D:\Course\FIT 4th - term 5\MyPhotos\MyAlbumExplorer\bin\Debug\MyPhotoAlbum.dll
+D:\Course\FIT 4th - term 5\MyPhotos\MyAlbumExplorer\bin\Debug\MyPhotoAlbum.pdb
+D:\Course\FIT 4th - term 5\MyPhotos\MyAlbumExplorer\obj\x86\Debug\MyAlbumExplorer.csprojResolveAssemblyReference.cache
+D:\Course\FIT 4th - term 5\MyPhotos\MyAlbumExplorer\obj\x86\Debug\MyAlbumExplorer.MainForm.resources
+D:\Course\FIT 4th - term 5\MyPhotos\MyAlbumExplorer\obj\x86\Debug\MyAlbumExplorer.Properties.Resources.resources
+D:\Course\FIT 4th - term 5\MyPhotos\MyAlbumExplorer\obj\x86\Debug\MyAlbumExplorer.csproj.GenerateResource.Cache
+D:\Course\FIT 4th - term 5\MyPhotos\MyAlbumExplorer\obj\x86\Debug\MyAlbumExplorer.exe
+D:\Course\FIT 4th - term 5\MyPhotos\MyAlbumExplorer\obj\x86\Debug\MyAlbumExplorer.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyAlbumExplorer\obj\x86\Debug\MyAlbumExplorer.exe
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyAlbumExplorer\obj\x86\Debug\MyAlbumExplorer.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyAlbumExplorer\bin\Debug\MyAlbumExplorer.exe
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyAlbumExplorer\bin\Debug\MyAlbumExplorer.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyAlbumExplorer\bin\Debug\MyPhotoAlbum.dll
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyAlbumExplorer\bin\Debug\MyPhotoAlbum.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyAlbumExplorer\obj\x86\Debug\MyAlbumExplorer.csprojResolveAssemblyReference.cache
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyAlbumExplorer\obj\x86\Debug\MyAlbumExplorer.MainForm.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyAlbumExplorer\obj\x86\Debug\MyAlbumExplorer.Properties.Resources.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyAlbumExplorer\obj\x86\Debug\MyAlbumExplorer.csproj.GenerateResource.Cache
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyAlbumExplorer\obj\x86\Debug\MyAlbumExplorer.exe
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyAlbumExplorer\obj\x86\Debug\MyAlbumExplorer.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyAlbumExplorer\bin\Debug\MyAlbumExplorer.exe
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyAlbumExplorer\bin\Debug\MyAlbumExplorer.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyAlbumExplorer\bin\Debug\MyPhotoAlbum.dll
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyAlbumExplorer\bin\Debug\MyPhotoAlbum.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyAlbumExplorer\obj\x86\Debug\MyAlbumExplorer.csprojResolveAssemblyReference.cache
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyAlbumExplorer\obj\x86\Debug\MyAlbumExplorer.MainForm.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyAlbumExplorer\obj\x86\Debug\MyAlbumExplorer.Properties.Resources.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyAlbumExplorer\obj\x86\Debug\MyAlbumExplorer.csproj.GenerateResource.Cache
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyAlbumExplorer\bin\Debug\MyAlbumExplorer.exe
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyAlbumExplorer\bin\Debug\MyAlbumExplorer.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyAlbumExplorer\bin\Debug\MyPhotoAlbum.dll
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyAlbumExplorer\bin\Debug\MyPhotoAlbum.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyAlbumExplorer\obj\x86\Debug\MyAlbumExplorer.csprojResolveAssemblyReference.cache
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyAlbumExplorer\obj\x86\Debug\MyAlbumExplorer.MainForm.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyAlbumExplorer\obj\x86\Debug\MyAlbumExplorer.Properties.Resources.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyAlbumExplorer\obj\x86\Debug\MyAlbumExplorer.csproj.GenerateResource.Cache
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyAlbumExplorer\obj\x86\Debug\MyAlbumExplorer.exe
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyAlbumExplorer\obj\x86\Debug\MyAlbumExplorer.pdb

@@ -1,0 +1,54 @@
+C:\Users\Linh Yo\Documents\Visual Studio 2010\Projects\MyPhotos\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.dll
+C:\Users\Linh Yo\Documents\Visual Studio 2010\Projects\MyPhotos\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.pdb
+C:\Users\Linh Yo\Documents\Visual Studio 2010\Projects\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.dll
+C:\Users\Linh Yo\Documents\Visual Studio 2010\Projects\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.pdb
+C:\Users\Linh Yo\Documents\Visual Studio 2010\Projects\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.csprojResolveAssemblyReference.cache
+C:\Users\Linh Yo\Documents\Visual Studio 2010\Projects\MyPhotos\MyPhotoAlbum\obj\Debug\Manning.MyPhotoAlbum.BaseEditDlg.resources
+C:\Users\Linh Yo\Documents\Visual Studio 2010\Projects\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.csproj.GenerateResource.Cache
+C:\Users\Linh Yo\Documents\Visual Studio 2010\Projects\MyPhotos\MyPhotoAlbum\obj\Debug\Manning.MyPhotoAlbum.PhotoEditDlg.resources
+C:\Users\Linh Yo\Documents\Visual Studio 2010\Projects\MyPhotos\MyPhotoAlbum\obj\Debug\Manning.MyPhotoAlbum.AlbumEditDlg.resources
+C:\Users\Linh Yo\Documents\Visual Studio 2010\Projects\MyPhotos\MyPhotoAlbum\obj\Debug\Manning.MyPhotoAlbum.PasswordDlg.resources
+D:\Course\FIT 4th - term 5\MyPhotos\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.dll
+D:\Course\FIT 4th - term 5\MyPhotos\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.pdb
+D:\Course\FIT 4th - term 5\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.csprojResolveAssemblyReference.cache
+D:\Course\FIT 4th - term 5\MyPhotos\MyPhotoAlbum\obj\Debug\Manning.MyPhotoAlbum.AlbumEditDlg.resources
+D:\Course\FIT 4th - term 5\MyPhotos\MyPhotoAlbum\obj\Debug\Manning.MyPhotoAlbum.BaseEditDlg.resources
+D:\Course\FIT 4th - term 5\MyPhotos\MyPhotoAlbum\obj\Debug\Manning.MyPhotoAlbum.PasswordDlg.resources
+D:\Course\FIT 4th - term 5\MyPhotos\MyPhotoAlbum\obj\Debug\Manning.MyPhotoAlbum.PhotoEditDlg.resources
+D:\Course\FIT 4th - term 5\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.csproj.GenerateResource.Cache
+D:\Course\FIT 4th - term 5\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.dll
+D:\Course\FIT 4th - term 5\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.pdb
+D:\Course\FIT 4th - term 5\MyPhotos\MyPhotoAlbum\obj\Debug\Manning.MyPhotoAlbum.Properties.Resources.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.dll
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.csprojResolveAssemblyReference.cache
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyPhotoAlbum\obj\Debug\Manning.MyPhotoAlbum.AlbumEditDlg.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyPhotoAlbum\obj\Debug\Manning.MyPhotoAlbum.BaseEditDlg.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyPhotoAlbum\obj\Debug\Manning.MyPhotoAlbum.PasswordDlg.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyPhotoAlbum\obj\Debug\Manning.MyPhotoAlbum.PhotoEditDlg.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyPhotoAlbum\obj\Debug\Manning.MyPhotoAlbum.Properties.Resources.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.csproj.GenerateResource.Cache
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.dll
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.dll
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.csprojResolveAssemblyReference.cache
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyPhotoAlbum\obj\Debug\Manning.MyPhotoAlbum.AlbumEditDlg.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyPhotoAlbum\obj\Debug\Manning.MyPhotoAlbum.BaseEditDlg.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyPhotoAlbum\obj\Debug\Manning.MyPhotoAlbum.PasswordDlg.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyPhotoAlbum\obj\Debug\Manning.MyPhotoAlbum.PhotoEditDlg.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyPhotoAlbum\obj\Debug\Manning.MyPhotoAlbum.Properties.Resources.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.csproj.GenerateResource.Cache
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.dll
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.dll
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyPhotoAlbum\bin\Debug\MyPhotoAlbum.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.csprojResolveAssemblyReference.cache
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyPhotoAlbum\obj\Debug\Manning.MyPhotoAlbum.AlbumEditDlg.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyPhotoAlbum\obj\Debug\Manning.MyPhotoAlbum.BaseEditDlg.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyPhotoAlbum\obj\Debug\Manning.MyPhotoAlbum.PasswordDlg.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyPhotoAlbum\obj\Debug\Manning.MyPhotoAlbum.PhotoEditDlg.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyPhotoAlbum\obj\Debug\Manning.MyPhotoAlbum.Properties.Resources.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.csproj.GenerateResource.Cache
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.dll
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyPhotoAlbum\obj\Debug\MyPhotoAlbum.pdb

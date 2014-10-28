@@ -1,0 +1,40 @@
+D:\Course\FIT 4th - term 5\MyPhotos\MyAlbumEditor\bin\Debug\MyAlbumEditor.exe
+D:\Course\FIT 4th - term 5\MyPhotos\MyAlbumEditor\bin\Debug\MyAlbumEditor.pdb
+D:\Course\FIT 4th - term 5\MyPhotos\MyAlbumEditor\bin\Debug\MyPhotoAlbum.dll
+D:\Course\FIT 4th - term 5\MyPhotos\MyAlbumEditor\bin\Debug\MyPhotoAlbum.pdb
+D:\Course\FIT 4th - term 5\MyPhotos\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.csprojResolveAssemblyReference.cache
+D:\Course\FIT 4th - term 5\MyPhotos\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.MainForm.resources
+D:\Course\FIT 4th - term 5\MyPhotos\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.Properties.Resources.resources
+D:\Course\FIT 4th - term 5\MyPhotos\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.csproj.GenerateResource.Cache
+D:\Course\FIT 4th - term 5\MyPhotos\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.exe
+D:\Course\FIT 4th - term 5\MyPhotos\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.exe
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyAlbumEditor\bin\Debug\MyAlbumEditor.exe
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyAlbumEditor\bin\Debug\MyAlbumEditor.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyAlbumEditor\bin\Debug\MyPhotoAlbum.dll
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyAlbumEditor\bin\Debug\MyPhotoAlbum.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.csprojResolveAssemblyReference.cache
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.MainForm.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.Properties.Resources.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5\MyPhotos\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.csproj.GenerateResource.Cache
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyAlbumEditor\bin\Debug\MyAlbumEditor.exe
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyAlbumEditor\bin\Debug\MyAlbumEditor.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyAlbumEditor\bin\Debug\MyPhotoAlbum.dll
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyAlbumEditor\bin\Debug\MyPhotoAlbum.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.csprojResolveAssemblyReference.cache
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.MainForm.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.Properties.Resources.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.csproj.GenerateResource.Cache
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.exe
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.1\MyPhotos\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.exe
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyAlbumEditor\bin\Debug\MyAlbumEditor.exe
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyAlbumEditor\bin\Debug\MyAlbumEditor.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyAlbumEditor\bin\Debug\MyPhotoAlbum.dll
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyAlbumEditor\bin\Debug\MyPhotoAlbum.pdb
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.csprojResolveAssemblyReference.cache
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.MainForm.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.Properties.Resources.resources
+D:\Course\FIT 4th - term 5\MyPhotos ver 18.5.2\MyPhotos\MyAlbumEditor\obj\x86\Debug\MyAlbumEditor.csproj.GenerateResource.Cache
